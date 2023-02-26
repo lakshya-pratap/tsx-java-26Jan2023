@@ -1,5 +1,5 @@
 # tsx-java-26Jan2023
-Welcome....
+Welcome.....
 Follow the below steps to run the springboot application
 To overcome the java version, depencency etc issues, I have created a docker image for the project
 1. You should have docker installed in you machine, if not, visit https://docs.docker.com/engine/install/
